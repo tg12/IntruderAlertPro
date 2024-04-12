@@ -37,6 +37,8 @@ Feel free to reach out with any questions or contributions at `blocklist@jamessa
 
 The blocklist is generally updated on an hourly basis to reflect new threats and updates to existing entries. We recommend pulling updates as frequently as necessary to ensure your systems remain protected with the most current threat data.
 
+[Download the Comprehensive Cybersecurity Blocklist](https://www.jamessawyer.co.uk/blocklist/blocklist.json)
+
 ### Commercial Use Restriction
 
 This blocklist is provided under the MIT License, which typically permits free use, including in commercial products. However, if this blocklist is being used within a commercial product, be advised that excessive querying without contributing back to the project or abiding by fair use may lead to your access being restricted. Ensure that your usage is responsible and consider how you can support the maintenance and growth of this resource if it forms a critical part of your product's security infrastructure.
